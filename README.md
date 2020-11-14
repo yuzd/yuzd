@@ -20,6 +20,19 @@ Here are some ideas to get you started:
 </p>
 
 - 😄 你好~，我是 @yuzd，工作在上海，我热爱开源,追求高效,喜欢折腾技术
+**我喜欢用的语言和工具**  
+<img src="https://img.icons8.com/ios-filled/48/000000/c-sharp-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
+<img src="https://img.icons8.com/color/48/000000/docker.png"/>
+<img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
+<img src="https://img.icons8.com/color/48/000000/visual-studio.png"/>
+<img src="https://img.icons8.com/ios-filled/48/000000/git.png"/>
+<img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+<img src="https://img.icons8.com/ios/50/000000/mysql.png"/>
+
 - 🌱 目前业余时间在把自己多年的开发经验,以开源项目的形式来分享给大家，并通过大家的意见来打磨自己的想法和技术。
   +  后端开发难免会和job打交道，基于hangfire这款开源job调度器的肩膀上 我开发了这款基于Http调度方式的扩展,以及搭配我开源的job开发框架可以让的job开发更高效
   [Hangfire.HttpJob](https://github.com/yuzd/Hangfire.HttpJob)
