@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 😄 你好~，我是 @yuzd，工作在上海，我热爱开源,追求高效,喜欢折腾技术
 
+![image](https://dimg04.c-ctrip.com/images/0v55s120008r62ubc1C9B.png)
+
 **我喜欢用的语言和工具**  
 <img src="https://img.icons8.com/ios-filled/48/000000/c-sharp-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
