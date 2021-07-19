@@ -46,5 +46,7 @@ Here are some ideas to get you started:
   + 其实不仅仅是前端开发者,后端开发者也同样有着部署难题，我开发了这个项目为了让开发者一键部署到远程服务器的iis,windows服务,Docker容器,这个项目包含了客户端,和引擎端 [AntDeploy](https://github.com/yuzd/AntDeploy)
   + ORM造轮子,我非常喜欢Linq2DB这款开源orm，它尽可能利用csharp的原生lambda语法的优势来高效率的编写和数据库相关的代码，我站在它的肩膀上,抽出它linq2db转换sql的引擎,再对db执行那块进行封装，可以通过配置在执行上可以分表分库，读写分离，搭配将db生成models代码的插件提升db操作的开发效率 [AntData.ORM](https://github.com/yuzd/AntData.ORM)
   + 一款后台管理系统，除了最基本的用户,菜单,权限管理,如何让你高效的开发业务逻辑(分页，CRUD，导入，导出通用功能)，高效配置菜单，页面访问和页面里的按钮权限是最关键的，我总结了我多年的后台开发经验设计出一套后台管理模板，助你一臂之力 [AntMgr](https://github.com/yuzd/AntMgr)
+  + .net跨平台开发xamarin非常有趣,可以快速开发mac软件,我开发了一个[mac小工具](https://www.cnblogs.com/yudongdong/p/11667115.html) 包含了json生成代码,截图自动上传,urlEncode/Decode,imagebase64互转等小工具来提高我在mac上的开发效率
+  + 已转战java多年虽然有很多commonUtil比如Apache的,Spring全家桶系列，但语法上kotlin给我的感觉更好，在orm上[ktorm](https://www.ktorm.org/zh-cn/)是一款非常优秀的框架，我喜欢用它所以我写了一个插件能够增加我的工作效率 [ktorm的idea代码生成器插件](https://github.com/yuzd/ktormgen)
 - 📫 技术上有疑惑？理解上有问题？wiki教程写的不够详细？实现上有新方案？也可以提issue给我，还请联系我 👉 `1877682825@qq.com`，我非常乐意帮助！欢迎大神们多多指点🙏
 - ♥️ 代码如人，见字如面，开源不易，感谢Star 
