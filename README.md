@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 
 ![image](https://dimg04.c-ctrip.com/images/0v55s120008r62ubc1C9B.png) ![image](https://images4.c-ctrip.com/target/0zb23120008th1ccw3B4C.png)  [我的博客园](https://www.cnblogs.com/yudongdong)
 
-
+ <img src="https://github-profile-trophy.vercel.app/?username=yuzd&margin-w=5" alt="yuzd" />
+ 
+ 
 **我喜欢用的语言和工具**  
 <img src="https://img.icons8.com/ios-filled/48/000000/c-sharp-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
