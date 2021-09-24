@@ -51,4 +51,5 @@ Here are some ideas to get you started:
   + .net跨平台开发xamarin非常有趣,可以快速开发mac软件,我开发了一个[mac小工具](https://www.cnblogs.com/yudongdong/p/11667115.html) 包含了json生成代码,截图自动上传,urlEncode/Decode,imagebase64互转等小工具来提高我在mac上的开发效率
   + 已转战java多年虽然有很多commonUtil比如Apache的,Spring全家桶系列，但语法上kotlin给我的感觉更好，在orm上[ktorm](https://www.ktorm.org/zh-cn/)是一款非常优秀的框架，我喜欢用它所以我写了一个插件能够增加我的工作效率 [ktorm的idea代码生成器插件](https://github.com/yuzd/ktormgen)
 - 📫 技术上有疑惑？理解上有问题？wiki教程写的不够详细？实现上有新方案？也可以提issue给我，还请联系我 👉 `1877682825@qq.com`，我非常乐意帮助！欢迎大神们多多指点🙏
-- ♥️ 代码如人，见字如面，开源不易，感谢Star 
+- ♥️ 代码如人，见字如面，开源不易，感谢Star
+- ♥️ 欢迎扫一扫加入微信群聊
