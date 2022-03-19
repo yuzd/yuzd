@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 😄 你好~，我是 @yuzd，工作在上海，我热爱开源,追求高效,喜欢折腾技术
 
-![image](https://images4.c-ctrip.com/target/0zb5w1200090ey5w2FB4E.png) ![image](https://dimg04.c-ctrip.com/images/0v55s120008r62ubc1C9B.png) ![image](https://images4.c-ctrip.com/target/0zb23120008th1ccw3B4C.png) [我的博客园](https://www.cnblogs.com/yudongdong)
+![image](https://dimg04.c-ctrip.com/images/0v55s120008r62ubc1C9B.png) ![image](https://images4.c-ctrip.com/target/0zb23120008th1ccw3B4C.png) [我的博客园](https://www.cnblogs.com/yudongdong)
 
  <img src="https://github-profile-trophy.vercel.app/?username=yuzd&margin-w=5" alt="yuzd" />
  
