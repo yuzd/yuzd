@@ -1,3 +1,6 @@
+<h4 align="center">访客数 :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/yuzd/count.svg" alt="yuzd :: Visitor's Count" /></p>
+
 ### Hi there 👋
 
 <!--
