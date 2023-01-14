@@ -18,19 +18,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuzd&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuzd&layout=compact" /> 
+  <img src="https://github-readme-stats-yuzd.vercel.app/api?username=yuzd&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&count_private=true" />
+  <img src="https://github-readme-stats-yuzd.vercel.app/api/top-langs/?username=yuzd&layout=compact" /> 
 </p>
 
 😄 你好~，我是 @yuzd，工作在上海，我热爱开源,追求高效,喜欢折腾技术
 
 ![image](https://dimg04.c-ctrip.com/images/0v55s120008r62ubc1C9B.png) ![image](https://images4.c-ctrip.com/target/0zb23120008th1ccw3B4C.png) [我的博客园](https://www.cnblogs.com/yudongdong)
 
- <img src="https://github-profile-trophy.vercel.app/?username=yuzd&margin-w=5" alt="yuzd" />
+ <img src="https://github-readme-stats-yuzd.vercel.app/?username=yuzd&margin-w=5" alt="yuzd" />
  
  # My ongoing project 😊
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuzd&repo=Hangfire.HttpJob)](https://github.com/yuzd/Hangfire.HttpJob)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuzd&repo=AntDeploy)](https://github.com/yuzd/AntDeploy)
+[![Readme Card](https://github-readme-stats-yuzd.vercel.app/api/pin/?username=yuzd&repo=Hangfire.HttpJob)](https://github.com/yuzd/Hangfire.HttpJob)
+[![Readme Card](https://github-readme-stats-yuzd.vercel.app/api/pin/?username=yuzd&repo=AntDeploy)](https://github.com/yuzd/AntDeploy)
 
 **我喜欢用的语言和工具**  
 <img src="https://img.icons8.com/ios-filled/48/000000/c-sharp-logo.png"/>
