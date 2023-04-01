@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p float="left">
-  <img src="https://github-readme-stats-yuzd.vercel.app/api?username=yuzd&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&count_private=true" />
-  <img src="https://github-readme-stats-yuzd.vercel.app/api/top-langs/?username=yuzd&layout=compact" /> 
-</p>
+
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuzd)
+  
+ ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzd&layout=compact&langs_count=8&hide=html,css&exclude_repo=Shopsnweb-xf)
 
 😄 你好~，我是 @yuzd，工作在上海，我热爱开源,追求高效,喜欢折腾技术
 
