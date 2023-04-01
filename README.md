@@ -29,8 +29,8 @@ Here are some ideas to get you started:
  <img src="https://github-profile-trophy.vercel.app/?username=yuzd&margin-w=5" alt="yuzd" />
  
  # My ongoing project 😊
-[![Readme Card](https://github-readme-stats-yuzd.vercel.app/api/pin/?username=yuzd&repo=Hangfire.HttpJob)](https://github.com/yuzd/Hangfire.HttpJob)
-[![Readme Card](https://github-readme-stats-yuzd.vercel.app/api/pin/?username=yuzd&repo=AntDeploy)](https://github.com/yuzd/AntDeploy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuzd&repo=Hangfire.HttpJob)](https://github.com/yuzd/Hangfire.HttpJob)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuzd&repo=AntDeploy)](https://github.com/yuzd/AntDeploy)
 
 **我喜欢用的语言和工具**  
 <img src="https://img.icons8.com/ios-filled/48/000000/c-sharp-logo.png"/>
